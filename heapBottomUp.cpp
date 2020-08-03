@@ -47,7 +47,7 @@ void heapBottomUp(int a[]) {
 
 int main() {
   int i;
-  int a[] = {6, 5, 3, 1, 8, 7, 2, 4};
+  int a[] = {11, 22, 38, 2, 13, 77, 5, 14, 31, 15, 91, 99, 7, 22, 31};
   n = sizeof(a) / sizeof(int);
 
   for(i = 0; i < n; i++) {
